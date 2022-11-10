@@ -65,7 +65,7 @@ write there. For more information on what commands and options are
 available from setup.py, run `python setup.py --help-commands`.
 
 
-Licensing
+Licensing -> what a good license
 =========
 
 This software is provided under under a slightly modified version of
@@ -86,5 +86,6 @@ again and again
 
 another master from Top
 
-This is only for test Master - Third time Boy
-added again line fourth
+Added totally new line
+
+This is only for test Master - Third time Boy   I added the fifth times
