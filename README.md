@@ -75,7 +75,7 @@ more information.
 SMBv1 and NetBIOS support based on Pysmb by Michael Teo.
 
 
-Contact Us
+Contact Us  -> Make sure
 ==========
 
 Whether you want to report a bug, send a patch or give some
