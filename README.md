@@ -54,7 +54,7 @@ Requirements
    6. If you're under Windows, you will need `pyReadline`
  * A recent release of Impacket.
 
-Installing
+Installing -> do all in 
 ----------
 
 In order to install the source execute the following command from the
